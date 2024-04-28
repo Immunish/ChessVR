@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638499273754454428
-    m_Hash: 3775610445
+      ticks: 638499339052975783
+    m_Hash: 3394576786
   m_LockFileStatus:
     m_FilePath: C:/Users/nessa/ChessVR/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638499273754649464
-    m_Hash: 475858478
+      ticks: 638499339053005779
+    m_Hash: 4116505930
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
